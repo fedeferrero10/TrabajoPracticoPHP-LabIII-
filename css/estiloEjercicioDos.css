@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+table, tr, th, td {border:1.5px solid #a6a6a6; border-collapse:collapse; padding:5px;}
+
+a { color: #ff0000db; }
+a em { color: #0843ff; }
+
+caption { color: #0843ff; }
+
+td { color: #017701; }
+td strong { color: #ffa500; }
+
+th { color: #9c27b0; }
+
+table {
+	width:250px;
+	}
